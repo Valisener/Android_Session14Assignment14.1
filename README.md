@@ -1,14 +1,14 @@
 # Android_Session14Assignment14.1
 
-a.
+A.
 Internal is memory thats on the device itself accessed only by the device can not be accessed by users which is one of the reasons why internal memory is also more secure. Interal also has less memory than external because application memory is limited.
 
 External is hard drives, sd cards, usb drives. That is removable and accessible in that it can be deleted or copied for a backup just in case by the user if so desired. Is also a security risk, usually bigger space to save information.
 
-b. 
+B. 
 Life time or Until you cleared the data or possible memory issues.
 
-c.
+C.
 Normal permissions dont pose much risk to the user's privacy or the operation of the device. The system automatically grants those permissions to the app.
 
 
